@@ -1,3 +1,6 @@
 body {
-    background-color: rgba(0, 0, 0, 0.966);
+  background-image: url(800px-McLaren_F1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;  
 }
